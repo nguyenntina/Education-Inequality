@@ -12,4 +12,4 @@ The EdGap data source can be found at: https://www.edgap.org/#5/37.718/-95.998
 
 The NCES data source can be found at: https://nces.ed.gov/ccd/pubschuniv.asp
 
-
+Since the NCES data is too large for Github, it can be accessed from the drive link: https://drive.google.com/file/d/1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP/view?usp=sharing 
