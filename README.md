@@ -27,3 +27,4 @@ Steps took to prepare the data include:
 7. Normalize data
 8. Impute missing values
 
+The file "education_inequality_data_preparation.ipynb" performs the data preparation. The file "test_dataset.csv" is the cleaned test data set and "training_dataset.csv" is the cleaned training data set.
