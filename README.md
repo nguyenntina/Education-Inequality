@@ -49,6 +49,8 @@ Steps took to analyze the data include:
 3. Use linear regression to see if socioeconomic impact act scores
 4. Interpret plots
 
+The file "education_analysis.ipynb" performs the data analysis and the file "education_analysis_slides.pdf" is the analysis slide deck.
+
 ## Author:
 The author of this repository is Tina Nguyen.
 
