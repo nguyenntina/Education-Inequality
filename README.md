@@ -2,7 +2,18 @@
 
 ## Description:
 
-This project addresses educational inequality in U.S. high schools by focusing on students' performance on college entrance exams like the ACT and SAT.
+This project addresses educational inequality in U.S. high schools by focusing on students' performance on college entrance exams like the ACT and SAT. We will be using data science methodology and creating plots to answer this question.
+
+## Requirements:
+
+Software and packages that will be used include:
+
+1. Python
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit Learn
+6. Colab
 
 ## Data:
 
@@ -28,3 +39,19 @@ Steps took to prepare the data include:
 8. Impute missing values
 
 The file "education_inequality_data_preparation.ipynb" performs the data preparation. The file "test_dataset.csv" is the cleaned test data set and "training_dataset.csv" is the cleaned training data set.
+
+## Data Analysis:
+
+Steps took to analyze the data include:
+
+1. Propose an additional step
+2. Create plots to answer proposal
+3. Use linear regression to see if socioeconomic impact act scores
+4. Interpret plots
+
+## Author:
+The author of this repository is Tina Nguyen.
+
+## License:
+This project is licensed under the terms of the MIT license.
+
